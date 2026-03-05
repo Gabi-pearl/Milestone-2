@@ -1,0 +1,13 @@
+PassengerID,Surname,Given Name,Age,Occupation,Origin,Arrival Date
+101,O'Malley,Patrick,24.0,Laborer,Cork,1845-04-12
+102,Schmidt,Hans,35.0,Baker,Hamburg,1848-06-20
+103,Romano,Giuseppe,19.0,Laborer,Naples,1849-11-02
+104,O'Malley,Mary,22.0,Seamstress,Cork,1845-04-12
+105,Dubois,Jean,40.0,Merchant,Lyon,1850-01-15
+106,Unknown,,,,Unknown,1847-09-10
+107,Müller,Wilhelm,29.0,Baker,Hamburg,1848-06-20
+108,Ivanov,Dmitri,31.0,Soldier,Odessa,1852-03-22
+109,Kelly,Sean,18.0,Laborer,Dublin,1845-05-05
+110,Chen,Wei,26.0,Merchant,Canton,1854-07-30
+111,Smith,John,45.0,Clerk,London,1855-01-01
+112,O'Connor,Bridget,20.0,Servant,Cork,1845-04-12
